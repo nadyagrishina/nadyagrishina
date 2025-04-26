@@ -19,7 +19,7 @@ Learning by building real-world projects and always looking for ways to grow!
 
 ### 🛠️ Some of My Projects
 - [Recipe Sharing Platform](https://github.com/nadyagrishina/recipe-sharing-platform) — fullstack web app with user authentication, recipes management, image uploads, and comments.
-- [3D-Canvas](https://github.com/nadyagrishina/3D-Canvas) — 3D snow animation project built with Java and LWJGL.
+- [](https://github.com/nadyagrishina/winter-3d-scene/tree/main) - a Java project simulating a winter landscape built with Java and LWJGL.
 - (More in profile!)
 
 ---
