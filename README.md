@@ -9,8 +9,8 @@ Learning by building real-world projects and always looking for ways to grow!
 - Java
 - Spring Boot
 - MySQL
-- React (basic)
 - HTML & CSS
+- Basic Javascript/React
 - Basic UI/UX Design
 - Maven
 - Git & GitHub
