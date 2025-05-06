@@ -20,7 +20,7 @@ Learning by building real-world projects and always looking for ways to grow!
 ### 🛠️ Some of My Projects
 - [Recipe Sharing Platform](https://github.com/nadyagrishina/recipe-sharing-platform) — fullstack web app with user authentication, recipes management, image uploads, and comments.
 - [Winter 3D Scene](https://github.com/nadyagrishina/winter-3d-scene/tree/main) - a Java project simulating a winter landscape built with Java and LWJGL.
-- [Z-buffer Project](https://github.com/nadyagrishina/zbuffer-3d-renderer) - Interactive 3D rendering demo with Z-buffering and camera controls, built with Java Swing.
+- [3D-Canvas](https://github.com/nadyagrishina/3D-Canvas) - A simple 3D graphics application to interact with and manipulate 3D shapes like pyramids and octahedrons.
 - (More in profile!)
 
 ---
