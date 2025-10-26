@@ -1,4 +1,4 @@
-# Hi there, I'm Nadya 
+# Hi, I'm Nadya 
 
 ### 🚀 Tech Stack
 - Java
